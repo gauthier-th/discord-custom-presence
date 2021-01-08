@@ -1,0 +1,22 @@
+{
+  "name": "discord-custom-presence",
+  "version": "1.0.0",
+  "description": "Custom Rich Presence on Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauthier-th/discord-custom-presence.git"
+  },
+  "author": "gauthier-th",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gauthier-th/discord-custom-presence/issues"
+  },
+  "homepage": "https://github.com/gauthier-th/discord-custom-presence#readme",
+  "dependencies": {
+    "discord-rich-presence": "0.0.8"
+  }
+}
